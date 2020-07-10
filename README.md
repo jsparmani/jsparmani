@@ -13,3 +13,9 @@ Here's more about me
 - 📫 How to reach me - jsparmani@gmail.com
 - 😄 Pronouns - He/Him
 - ⚡ Fun fact - In JavaScript you can start with a semicolon(;). eg. `;var a = 2`🙂
+
+
+<a href="https://twitter.com/ParmaniJay"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/jsparmani"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://facebook.com/jay.parmani2000"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/jsparmani"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
