@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is [Jay Parmani](https://linkedin.com/in/jsparmani). I'm a Full Stack Developer and interested in different technologies under DevOps. 
 
-I am currently pursuing B.E. 💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu)
+I am currently pursuing B.E. 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
 Here's more about me
 
