@@ -5,7 +5,7 @@ I am currently pursuing B.E. 💻 at [Thapar Institute of Engineering and Techno
 
 Here's more about me
 
-- 🔭 I’m currently working on - [Developer at Upmesh](http://upmesh.io) and [Buying Selling Platform](https://github.com/developer-student-club-thapar/buying_selling_devops)
+- 🔭 I’m currently working on - [Lead Developer at Upmesh](http://upmesh.io) and [Buying Selling Platform](https://github.com/developer-student-club-thapar/buying_selling_devops)
 - 🌱 I’m currently learning - CI / CD Pipelines on AWS and Microsoft Azure, Basics of Web Security
 - 👯 I’m looking to collaborate on - React Native Mobile Application Development
 - 🤔 I’m looking for help with - Best Practices on Production version deployment of big projects.
