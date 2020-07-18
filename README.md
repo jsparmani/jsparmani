@@ -12,7 +12,7 @@ Here's more about me
 - 💬 Ask me about - Anything related to web / mobile technologies. I am also good at googling out things 😉 
 - 📫 How to reach me - jsparmani@gmail.com
 - 😄 Pronouns - He/Him
-- ⚡ Fun fact - In JavaScript you can start with a semicolon(;). eg. `;var a = 2`🙂
+- ⚡ Fun fact - In Python `import this` prints out a poem from the creator of python🙂
 
 
 <a href="https://twitter.com/ParmaniJay"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
