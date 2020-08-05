@@ -14,8 +14,9 @@ Here's more about me
 - 😄 Pronouns - He/Him
 - ⚡ Fun fact - In Python `import this` prints out a poem from the creator of python🙂
 
-
+<p align="center">
 <a href="https://twitter.com/ParmaniJay"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/jsparmani"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://facebook.com/jay.parmani2000"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://instagram.com/jsparmani"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+</p>
