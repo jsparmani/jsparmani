@@ -5,7 +5,8 @@ I am currently pursuing B.E. 💻 at [Thapar Institute of Engineering and Techno
 
 Here's more about me
 
-- 🔭 I’m currently working as - [Full Stack Developer at Fountane](https://fountane.com) and [Lead Developer at Upmesh](http://upmesh.io)
+- 🔭 I’m currently working as - [Full Stack Developer at Fountane](https://fountane.com)
+- 💼 Previously worked as [Lead Frontend Developer at Upmesh, Singapore](https://upmesh.io)
 - 🌱 I’m currently learning - CI / CD Pipelines on AWS and RN Custom Components, Basics of Web Security
 - 👯 I’m looking to collaborate on - React Native Mobile Application Development for Production
 - 🤔 I’m looking for help with - Best Practices on Production version deployment of big projects.
