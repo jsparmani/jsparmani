@@ -5,10 +5,10 @@ I am currently in my Final Year B.E. 💻 at [Thapar Institute of Engineering an
 
 Here's more about me
 
-- 🔭 I’m currently working as - [Full Stack Engineer at Fountane](https://fountane.com)
-- 💼 Previously worked as [Lead Frontend Developer at Upmesh, Singapore](https://upmesh.io)
-- 🌱 I’m currently learning - CI / CD Pipelines, Managing Infrastructure on AWS and RN Custom Components
-- 👯 I’m looking to collaborate on - Cloud Native Automation Projects and React Native Mobile Application Development for Production
+- 🔭 I’m currently working as - Software Engineer @Apple
+- 💼 Previously worked as [Lead Frontend Developer at Upmesh, Singapore](https://upmesh.io) & [Full Stack Developer, Fountane](https://fountane.com)
+- 🌱 I’m currently learning - Database Design, Infrastructure Architecturing, Tech in DevOps
+- 👯 I’m looking to collaborate on - Cloud Native Automation Projects
 - 🤔 I’m looking for help with - Always up for something new. Ping me for any tech discussion.
 - 💬 Ask me about - Anything related to web / mobile technologies. I am also good at googling out things 😉 
 - 📫 How to reach me - jsparmani@gmail.com
